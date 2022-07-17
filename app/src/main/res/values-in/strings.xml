@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Mengunggah</string>
+
+    <string name="login_success">Berhasil Masuk</string>
+    <string name="login_failed">Gagal Masuk</string>
+    <string name="account_question">Tidak punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="register_success">Daftar Berhasil</string>
+    <string name="register_fail">Daftar Gagal</string>
+    <string name="name_warning">Nama tidak boleh kosong</string>
+    <string name="field_warning">Field cannot be empty</string>
+    <string name="password_null">Kata Sandi tidak boleh kosong</string>
+    <string name="email_warning">Mohon gunakan format email</string>
+    <string name="password_warning">Kata Sandi minimal 6 karakter</string>
+    <string name="description">Masukan Deskripsi</string>
+    <string name="create_story_menu">Buat Cerita Menu</string>
+    <string name="success_load_stories">Cerita berhasil dimuat</string>
+    <string name="failed_load_stories">Cerita gagak dimuat</string>
+    <string name="permission_denied">Permintaan ditolak</string>
+    <string name="upload_success">Berhasil Mengunggah</string>
+    <string name="upload_failed">Gagal Mengunggah</string>
+    <string name="upload_warning">Konten tidak boleh kosong</string>
+    <string name="change_language">Pilih Bahasa</string>
+    <string name="failed_take_picture">Gagal mengambil gambar</string>
+    <string name="failed_show_camera">Gagal menampilkan gambar</string>
+</resources>

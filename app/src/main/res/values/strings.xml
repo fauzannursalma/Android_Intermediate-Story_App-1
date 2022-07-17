@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="account_question">Don\'t have an account ?</string>
+    <string name="register">Register</string>
+    <string name="register_success">Register success</string>
+    <string name="register_fail">Register failed</string>
+    <string name="name_warning">Name cannot be empty</string>
+    <string name="field_warning">Field cannot be empty</string>
+    <string name="password_null">Password cannot be empty</string>
+    <string name="email_warning">Please use email format</string>
+    <string name="password_warning">Password must have at least 6 characters</string>
+    <string name="description">Enter a Description</string>
+    <string name="create_story_menu">Create Story Menu</string>
+    <string name="success_load_stories">Stories success to load</string>
+    <string name="failed_load_stories">Stories failed to load</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="upload_warning">Content cannot be empty</string>
+    <string name="change_language">Change Language</string>
+    <string name="failed_take_picture">Failed to take picture</string>
+    <string name="failed_show_camera">Failed to show camera</string>
+</resources>

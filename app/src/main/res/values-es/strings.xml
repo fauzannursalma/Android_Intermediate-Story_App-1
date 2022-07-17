@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="login_failed">Inicio de sesión fallido</string>
+    <string name="account_question">¿No tienes una cuenta?</string>
+    <string name="register">Registrarse</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="register_fail">Registro fallido</string>
+    <string name="name_warning">El nombre no puede estar vacío</string>
+    <string name="field_warning">El campo no puede estar vacío</string>
+    <string name="password_null">La contraseña no puede estar vacía</string>
+    <string name="email_warning">Utilice el formato de correo electrónico</string>
+    <string name="password_warning">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="description">Ingrese una descripción</string>
+    <string name="create_story_menu">Crear menú de historia</string>
+    <string name="success_load_stories">Historias exitosas para cargar</string>
+    <string name="failed_load_stories">Las historias no se pudieron cargar</string>
+    <string name="permission_denied">Permiso denegado</string>
+    <string name="upload_success">Carga exitosa</string>
+    <string name="upload_failed">Carga fallida</string>
+    <string name="upload_warning">El contenido no puede estar vacío</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="failed_take_picture">Error al tomar la foto</string>
+    <string name="failed_show_camera">Error al mostrar la cámara</string>
+</resources>
